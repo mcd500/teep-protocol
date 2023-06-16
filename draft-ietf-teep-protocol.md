@@ -1,7 +1,7 @@
 ---
 stand_alone: true
 ipr: trust200902
-docname: draft-ietf-teep-protocol-latest
+docname: draft-ietf-teep-protocol-14
 cat: std
 submissiontype: IETF
 pi:
